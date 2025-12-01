@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/abvohra-WKND-EDS/language-masters/en:/",
+    "/content/abvohra-WKND-EDS/language-masters/en/:/en/",
+    "/content/abvohra-WKND-EDS/language-masters/fr/:/fr/",
+    "/content/abvohra-WKND-EDS/language-masters/fr:/fr",
+    "/content/abvohra-WKND-EDS/language-masters/es/:/es/",
+    "/content/abvohra-WKND-EDS/language-masters/es:/es",
+    "/content/abvohra-WKND-EDS/language-masters/ja/:/ja/",
+    "/content/abvohra-WKND-EDS/language-masters/ja:/ja",
+    "/content/abvohra-WKND-EDS/language-masters/de/:/de/",
+    "/content/abvohra-WKND-EDS/language-masters/de:/de",
+    "/content/abvohra-WKND-EDS/configuration:/.helix/config.json",
+    "/content/abvohra-WKND-EDS/metadata:/metadata.json",
+    "/content/abvohra-WKND-EDS/redirects:/redirects.json",
+    "/content/abvohra-WKND-EDS/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/abvohra-WKND-EDS/",
+    "/content/dam/abvohra-WKND-EDS/"
   ]
 }
